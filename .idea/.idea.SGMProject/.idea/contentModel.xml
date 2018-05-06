@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Radu\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_SGMProject.2045241038.00" t="ExcludeRecursive" />
+    <e p="D:\src\Unity\SGM\SGMProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets\amusedART" t="Include">
+        <e p="Mushroom_Monster" t="Include">
+          <e p="Script" t="Include">
+            <e p="MushroomMon_Ani_Test.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\NavMeshComponents" t="Include">
+        <e p="Editor" t="Include">
+          <e p="NavMeshComponentsGUIUtility.cs" t="Include" />
+          <e p="NavMeshLinkEditor.cs" t="Include" />
+          <e p="NavMeshModifierEditor.cs" t="Include" />
+          <e p="NavMeshModifierVolumeEditor.cs" t="Include" />
+          <e p="NavMeshSurfaceEditor.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="NavMeshLink.cs" t="Include" />
+          <e p="NavMeshModifier.cs" t="Include" />
+          <e p="NavMeshModifierVolume.cs" t="Include" />
+          <e p="NavMeshSurface.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\PinwheelFantasyEffect" t="Include">
+        <e p="README.txt" t="Include" />
+        <e p="Script" t="Include">
+          <e p="DemoManager.cs" t="Include" />
+          <e p="Editor" t="Include">
+            <e p="CompileLogger.cs" t="Include" />
+          </e>
+          <e p="FairyDustRandomPosition.cs" t="Include" />
+          <e p="FairyMeteorAddForceDemo.cs" t="Include" />
+          <e p="Fireball.cs" t="Include" />
+          <e p="Spin.cs" t="Include" />
+          <e p="Test.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\Resources" t="Include">
+        <e p="TextMesh Pro" t="Include">
+          <e p="Examples &amp; Extras" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="Anton OFL.txt" t="Include" />
+              <e p="Bangers - OFL.txt" t="Include" />
+              <e p="LiberationSans - OFL.txt" t="Include" />
+              <e p="NotoSans - License.txt" t="Include" />
+              <e p="Oswald Bold - OFL.txt" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Benchmark01.cs" t="Include" />
+              <e p="Benchmark01_UGUI.cs" t="Include" />
+              <e p="Benchmark02.cs" t="Include" />
+              <e p="Benchmark03.cs" t="Include" />
+              <e p="Benchmark04.cs" t="Include" />
+              <e p="CameraController.cs" t="Include" />
+              <e p="ChatController.cs" t="Include" />
+              <e p="EnvMapAnimator.cs" t="Include" />
+              <e p="ObjectSpin.cs" t="Include" />
+              <e p="ShaderPropAnimator.cs" t="Include" />
+              <e p="SimpleScript.cs" t="Include" />
+              <e p="SkewTextExample.cs" t="Include" />
+              <e p="TeleType.cs" t="Include" />
+              <e p="TextConsoleSimulator.cs" t="Include" />
+              <e p="TextMeshProFloatingText.cs" t="Include" />
+              <e p="TextMeshSpawner.cs" t="Include" />
+              <e p="TMP_DigitValidator.cs" t="Include" />
+              <e p="TMP_ExampleScript_01.cs" t="Include" />
+              <e p="TMP_FrameRateCounter.cs" t="Include" />
+              <e p="TMP_PhoneNumberValidator.cs" t="Include" />
+              <e p="TMP_TextEventCheck.cs" t="Include" />
+              <e p="TMP_TextEventHandler.cs" t="Include" />
+              <e p="TMP_TextInfoDebugTool.cs" t="Include" />
+              <e p="TMP_TextSelector_A.cs" t="Include" />
+              <e p="TMP_TextSelector_B.cs" t="Include" />
+              <e p="TMP_UiFrameRateCounter.cs" t="Include" />
+              <e p="TMPro_InstructionOverlay.cs" t="Include" />
+              <e p="VertexColorCycler.cs" t="Include" />
+              <e p="VertexJitter.cs" t="Include" />
+              <e p="VertexShakeA.cs" t="Include" />
+              <e p="VertexShakeB.cs" t="Include" />
+              <e p="VertexZoom.cs" t="Include" />
+              <e p="WarpTextExample.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Assets\Scripts" t="Include">
+        <e p="BuildingHealth.cs" t="Include" />
+        <e p="Enemy.cs" t="Include" />
+        <e p="EnemyProjectileMovement.cs" t="Include" />
+        <e p="EnemySpell.cs" t="Include" />
+        <e p="EventManager.cs" t="Include" />
+        <e p="GUI" t="Include">
+          <e p="InGameMenuScript.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="ICaster.cs" t="Include" />
+          <e p="IEnemy.cs" t="Include" />
+          <e p="IHealthBar.cs" t="Include" />
+          <e p="ILevelManager.cs" t="Include" />
+          <e p="IPlayer.cs" t="Include" />
+          <e p="ISpawner.cs" t="Include" />
+          <e p="ISpellManager.cs" t="Include" />
+          <e p="ITakeDamage.cs" t="Include" />
+        </e>
+        <e p="MagicSource.cs" t="Include" />
+        <e p="MenuManager.cs" t="Include" />
+        <e p="MoveTo.cs" t="Include" />
+        <e p="NewBehaviourScript.cs" t="Include" />
+        <e p="PLayerScripts" t="Include">
+          <e p="Achievement.cs" t="Include" />
+          <e p="BasicAttack.cs" t="Include" />
+          <e p="HeroAchievement.cs" t="Include" />
+          <e p="Player.cs" t="Include" />
+          <e p="PlayerExperience.cs" t="Include" />
+          <e p="PlayerExperienceBar.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+        </e>
+        <e p="RepelGuide.cs" t="Include" />
+        <e p="Spell.cs" t="Include" />
+        <e p="SpellCasters" t="Include">
+          <e p="Caster.cs" t="Include" />
+        </e>
+        <e p="Spells" t="Include">
+          <e p="AttackProjectile.cs" t="Include" />
+          <e p="BulletStormMovement.cs" t="Include" />
+          <e p="BulletStormUlt.cs" t="Include" />
+          <e p="ChainLightning.cs" t="Include" />
+          <e p="ChaosBall.cs" t="Include" />
+          <e p="Fireball.cs" t="Include" />
+          <e p="Fireorb.cs" t="Include" />
+          <e p="IceShards.cs" t="Include" />
+          <e p="NatureCircle.cs" t="Include" />
+          <e p="ScorcedEarth.cs" t="Include" />
+          <e p="SpinningBoomerang.cs" t="Include" />
+          <e p="StormCall.cs" t="Include" />
+          <e p="UnityChanUlt.cs" t="Include" />
+          <e p="UNityChanUltProjectile.cs" t="Include" />
+        </e>
+        <e p="SphereRotate.cs" t="Include" />
+        <e p="StormCallParticleCollision.cs" t="Include" />
+        <e p="Utillity" t="Include">
+          <e p="BossController.cs" t="Include" />
+          <e p="DistanceBasedTarget.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="HealingZone.cs" t="Include" />
+          <e p="HealthBar.cs" t="Include" />
+          <e p="Level.cs" t="Include" />
+          <e p="LevelManager.cs" t="Include" />
+          <e p="ProximityProvider.cs" t="Include" />
+          <e p="RandomLevelGenerator.cs" t="Include" />
+          <e p="SpawnManager.cs" t="Include" />
+          <e p="UiHealthBar.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\SoldierFree" t="Include">
+        <e p="AttachWeapon.cs" t="Include" />
+      </e>
+      <e p="Assets\TGU Skybox Pack" t="Include">
+        <e p="README.txt" t="Include" />
+      </e>
+      <e p="Assets\Troll_Сannibal" t="Include">
+        <e p="README.txt" t="Include" />
+        <e p="Script" t="Include">
+          <e p="TrolControl.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Assets\UnityChan" t="Include">
+        <e p="license.txt" t="Include" />
+        <e p="Models" t="Include">
+          <e p="UnityChanShader" t="Include">
+            <e p="Shader" t="Include">
+              <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eye.shader" t="Include" />
+              <e p="Unitychan_chara_eye_blend.shader" t="Include" />
+              <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
+              <e p="Unitychan_chara_fuku.shader" t="Include" />
+              <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
+              <e p="Unitychan_chara_hada.shader" t="Include" />
+              <e p="Unitychan_chara_hada_blend.shader" t="Include" />
+              <e p="Unitychan_chara_hair.shader" t="Include" />
+              <e p="Unitychan_chara_hair_ds.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CameraController.cs" t="Include" />
+          <e p="FaceUpdate.cs" t="Include" />
+          <e p="IdleChanger.cs" t="Include" />
+          <e p="SceneLoader.cs" t="Include" />
+          <e p="ThirdPersonCamera.cs" t="Include" />
+          <e p="UnityChanControlScriptWithRgidBody.cs" t="Include" />
+        </e>
+        <e p="Stage" t="Include">
+          <e p="Shader" t="Include">
+            <e p="AlphaMask.shader" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SGMProject.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
