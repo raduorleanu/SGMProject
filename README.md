@@ -30,4 +30,4 @@
 ##
 ##
 
-### [Gampeplay video](https://www.youtube.com/watch?v=wQUfvJqj9qY)
+### [Gameplay video](https://www.youtube.com/watch?v=wQUfvJqj9qY)
